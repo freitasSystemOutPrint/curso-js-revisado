@@ -1,0 +1,16 @@
+<<!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+        
+        <script>
+        window.alert('Minha primeira mensagem!');
+        window.confirm('Esta gostando de JS ?');
+        window.prompt('Qual o seu nome ?');
+        
+         </script>
+    </body>
+    </html>
